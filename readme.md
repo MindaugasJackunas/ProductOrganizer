@@ -92,7 +92,7 @@ php artisan product:add --category={id}
 
 ### Retrieve product JSON through URL
 
-[http://homestead.test/api/items/{id}] http://homestead.test/api/items/1
+http://homestead.test/api/items/{id}
 
 ## TODO
 
